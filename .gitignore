@@ -1,4 +1,15 @@
 .vs/
-bin/
-obj/
+Debug/
+Release/
+x64/
+x86/
 *.user
+*.ilk
+*.pdb
+*.obj
+*.exe
+*.tlog
+*.idb
+*.log
+*.recipe
+*.lastbuildstate

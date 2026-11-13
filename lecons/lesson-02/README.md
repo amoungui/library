@@ -31,3 +31,15 @@ the welcome message of a library management application.
 3. Build with Ctrl+Shift+B.
 
 4. Run with F5.
+
+## Expected output
+========================================
+   Welcome to the library
+========================================
+Manage books, members and loans.
+========================================
+
+Lessons
+⬅️ Lesson 01 — Introduction
+
+➡️ Lesson 03 — coming soon

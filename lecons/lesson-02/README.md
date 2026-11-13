@@ -39,7 +39,7 @@ the welcome message of a library management application.
 Manage books, members and loans.
 ========================================
 
-Lessons
-⬅️ Lesson 01 — Introduction
+## Lessons
 
-➡️ Lesson 03 — coming soon
+- ⬅️ [Lesson 01 — Introduction](https://github.com/amoungui/lesson-01-intro)
+- ➡️ [Lesson 03 — Declaring variables](https://github.com/amoungui/lesson-03)

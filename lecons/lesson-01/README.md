@@ -35,3 +35,6 @@ welcome message to the console.
 ## Expected output
 Welcome to the library management application.
 
+## Next lesson
+
+➡️ [Lesson 02 — Welcome message simulation](https://github.com/amoungui/lesson-02)

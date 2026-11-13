@@ -24,7 +24,7 @@ welcome message to the console.
 
 1. Clone the repository or download the ZIP:
    ```bash
-   git clone https://github.com/amoungui/lesson-01-intro.git
+   git clone https://github.com/amoungui/lesson-01.git
 
 2. Open library.slnx in Visual Studio.
 

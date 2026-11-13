@@ -19,7 +19,7 @@ code for the lesson you are currently working on:
 
 | Lesson | Repository | Content |
 |---|---|---|
-| 01 | [lesson-01-intro](https://github.com/amoungui/lesson-01-intro) | First C++ program: welcome message |
+| 01 | [lesson-01](https://github.com/amoungui/lesson-01) | First C++ program: welcome message |
 | 02 | [lesson-02](https://github.com/amoungui/lesson-02) | Library welcome message simulation |
 | 03 | *coming soon* | *coming soon* |
 

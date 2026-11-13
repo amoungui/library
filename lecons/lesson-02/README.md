@@ -41,5 +41,5 @@ Manage books, members and loans.
 
 ## Lessons
 
-- ⬅️ [Lesson 01 — Introduction](https://github.com/amoungui/lesson-01-intro)
+- ⬅️ [Lesson 01 — Introduction](https://github.com/amoungui/lesson-01)
 - ➡️ [Lesson 03 — Declaring variables](https://github.com/amoungui/lesson-03)
